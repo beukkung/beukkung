@@ -1,5 +1,6 @@
 ### Hi there 👋
-##🌱 I’m currently learning about machine learning engineering with SuperAI engineer season2.
+
+## 🌱 I’m currently learning about machine learning engineering with SuperAI engineer season2.
 
 <!--
 **beukkung/beukkung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
