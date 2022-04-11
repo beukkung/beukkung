@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## 🌱 I’m currently learning about machine learning engineering with SuperAI engineer season2.
+## 🌱 Hi, I'm Siripongsa.
+Now I am currently in the Super AI Engineer 2021. The project overview includes online and onsite training activities with an emphasis on hands-on training. The trainees will acquire knowledge of artificial intelligence from basic to advanced levels. Able to apply the knowledge gained from the training to develop problems, design, research, both academically and in business. The assigned project There are a variety of industries.
 
 <!--
 **beukkung/beukkung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
